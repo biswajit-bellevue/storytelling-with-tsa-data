@@ -1,6 +1,6 @@
 # Storytelling about TSA Precheck Program Performance using Explanatory Analysis of TSA Complaints Data
 
-Expedited Screening Program known as PreCheck was implemented in 2015 by TSA to improve the aviation security and better experience for travelers. The program has been widely adopted by about 200 airports across the country and millions of passengers since its inception which demonstrates the program’s success in meeting its goals. The purpose of this presentation is to highlight the success of the program to the Project Team and decision makers; and at the same time inform that there is scope to further improve passengers’ experience. 
+Expedited Screening Program known as PreCheck was implemented in 2015 by TSA to improve the aviation security and better experience for travelers. The program has been widely adopted by about 200 airports across the country and millions of passengers since its inception which demonstrates the program’s success in meeting its goals. The purpose of this visualizations is to highlight the success of the program and at the same time inform that there is scope to further improve passengers’ experience. 
 
 
 ### Datasets
